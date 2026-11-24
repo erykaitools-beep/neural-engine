@@ -1,11 +1,16 @@
 # Changelog
 
+## 0.1.0-rc.2 — local review, 2026-11-24
+
+- Applies the maintainer's license decision: MIT for project code and CC BY 4.0 for all other project-owned materials. Adds both license texts and a scope and attribution guide. The published report remains CC BY 4.0.
+- Updates citation and contribution metadata. No changes to research code, evidence or checkpoints; no new training or public release.
+
 ## 0.1.0-rc.1 — local review, 2026-11-24
 
 - Adds the reference cell, spatial, temporal-gate and post-action contact implementations and six sets of evidence. Includes original synthetic inputs or their deterministic generators, seeds, and raw responses, not just aggregate tables.
 - Adds separate commands for recomputing observations and for bounded, opt-in fresh reproduction, a data-integrity manifest, and frozen-reference tests.
 - Includes the unsuccessful sequence-learning cohort, an early-response failure, and two negative geometry comparisons alongside favorable observations.
-- Links the first report, documents assisted development and marks outstanding software/data licensing decisions. No new training was performed to prepare this candidate.
+- Linked the first report and documented assisted development. The license decision was open in rc.1 and is recorded in rc.2. No new training was performed to prepare this candidate.
 
 ## Earlier public repository
 

@@ -6,4 +6,4 @@ For a reproduction, include the Git commit, manifest status, Python and NumPy ve
 
 For an experiment, state the hypothesis, comparison group, independent unit, input split, resource budget, tie handling and predeclared criterion **before** looking at the outcome. Keep old evidence immutable: add a new named study rather than editing stored responses or tolerances. Do not call code review or reanalysis a new cohort.
 
-Disclose material AI assistance and the origin and licensing of submitted code or data. Only contribute material you have the right to share. Pending approval of the code/data licenses, do not assume this review candidate grants redistribution rights.
+Disclose material AI assistance and the origin and licensing of submitted code or data. Submit original code under MIT and other original project materials under CC BY 4.0, as described in [LICENSE](LICENSE). Only contribute material you have the right to share on those terms; identify third-party material and its terms before submission.

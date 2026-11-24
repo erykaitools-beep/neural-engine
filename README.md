@@ -42,6 +42,8 @@ The long-term question is whether such mechanisms can support continual adaptati
 
 ## Use, attribution and collaboration
 
-See [CITATION.cff](CITATION.cff) to cite the report, [LICENSE](LICENSE) for the proposed software terms and the separate report rights, [CONTRIBUTING.md](CONTRIBUTING.md) for replicating or challenging an observation, and [ROADMAP.md](ROADMAP.md) for open questions. OpenAI Codex and ChatGPT assisted with implementation, analysis and writing; the [disclosure](docs/provenance.md) explains their role. Neither is a scientific author or an independent laboratory.
+The code is licensed under [MIT](LICENSES/MIT.txt). All other project-owned materials, including synthetic data, checkpoints, results and documentation, are licensed under [CC BY 4.0](LICENSES/CC-BY-4.0.txt). The [license scope and attribution example](LICENSE) explain how to reuse each. The Zenodo report remains CC BY 4.0; third-party works retain their own terms.
 
-**Release status:** local review candidate `0.1.0-rc.1`. The publication already has a DOI; the software candidate does not. See [CHANGELOG.md](CHANGELOG.md) for what is included and what has not been rerun.
+See [CITATION.cff](CITATION.cff) to cite the report, [CONTRIBUTING.md](CONTRIBUTING.md) for replicating or challenging an observation, and [ROADMAP.md](ROADMAP.md) for open questions. OpenAI Codex and ChatGPT assisted with implementation, analysis and writing; the [disclosure](docs/provenance.md) explains their role. Neither is a scientific author or an independent laboratory.
+
+**Release status:** local review candidate `0.1.0-rc.2`. The publication already has a DOI; the software candidate does not. See [CHANGELOG.md](CHANGELOG.md) for what is included and what has not been rerun.

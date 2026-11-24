@@ -2,13 +2,16 @@ cff-version: 1.2.0
 message: "For the scientific results, cite the preferred report below. For this code also identify the software commit used."
 title: "Neural Engine: controlled experiments in small adaptive spiking networks"
 type: software
-version: "0.1.0-rc.1"
+version: "0.1.0-rc.2"
+# Software license; see LICENSE for non-code materials in this repository.
+license: MIT
 authors:
   - family-names: Wyrebek
     given-names: Eryk
 repository-code: "https://github.com/erykaitools-beep/neural-engine"
 preferred-citation:
   type: report
+  license: CC-BY-4.0
   title: "Neural Engine – Independent Research Report No. 001"
   authors:
     - family-names: Wyrebek
