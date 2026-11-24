@@ -1,5 +1,7 @@
 # Neural Engine
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24498021.svg)](https://doi.org/10.5281/zenodo.24498021)
+
 **Can a small spiking circuit learn a temporal relation, keep an earlier association, and wait until a decision is justified?** Neural Engine is an independent research project that tests these questions one mechanism at a time. This repository contains the code, synthetic stimuli, checkpoints and output records behind [Research Report No. 001](https://doi.org/10.5281/zenodo.24492624), including experiments that failed.
 
 A useful distinction runs through this work: two input histories can leave different states in a neuron without producing different spikes, and different spikes need not mean the circuit has learned a rule. The experiments measure these steps separately.
@@ -46,4 +48,4 @@ The code is licensed under [MIT](LICENSES/MIT.txt). All other project-owned mate
 
 See [CITATION.cff](CITATION.cff) to cite the report, [CONTRIBUTING.md](CONTRIBUTING.md) for replicating or challenging an observation, and [ROADMAP.md](ROADMAP.md) for open questions. OpenAI Codex and ChatGPT assisted with implementation, analysis and writing; the [disclosure](docs/provenance.md) explains their role. Neither is a scientific author or an independent laboratory.
 
-**Release status:** local review candidate `0.1.0-rc.2`. The publication already has a DOI; the software candidate does not. See [CHANGELOG.md](CHANGELOG.md) for what is included and what has not been rerun.
+**Software release:** [v0.1.0 on Zenodo](https://doi.org/10.5281/zenodo.24498021). The software and Report No. 001 have separate DOIs. See [CHANGELOG.md](CHANGELOG.md) for what is included and what has not been rerun.
