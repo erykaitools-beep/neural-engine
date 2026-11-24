@@ -1,0 +1,42 @@
+[
+  {
+    "channels": [
+      2,
+      4,
+      1
+    ],
+    "cue": 1,
+    "label": 0,
+    "phase": "A"
+  },
+  {
+    "channels": [
+      3,
+      5,
+      1
+    ],
+    "cue": 0,
+    "label": 1,
+    "phase": "A"
+  },
+  {
+    "channels": [
+      3,
+      0,
+      7
+    ],
+    "cue": 2,
+    "label": 0,
+    "phase": "B"
+  },
+  {
+    "channels": [
+      2,
+      0,
+      6
+    ],
+    "cue": 3,
+    "label": 1,
+    "phase": "B"
+  }
+]

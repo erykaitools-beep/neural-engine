@@ -1,0 +1,292 @@
+[
+  {
+    "study": "N1.1",
+    "original_file": "baseline_model.py",
+    "original_sha256": "0c510b19d114a9e65ac0811aa2f6114bc1eae6680456618099420296a1f7e831",
+    "release_modules": [
+      "base_cell"
+    ]
+  },
+  {
+    "study": "N1.1",
+    "original_file": "model.py",
+    "original_sha256": "9c8e2cefb87c9d64f603743ba0e5f83e78163f7021c93badc90e877178099e58",
+    "release_modules": [
+      "adaptation"
+    ]
+  },
+  {
+    "study": "N1.1",
+    "original_file": "legacy.py",
+    "original_sha256": "f3b064102ddffab0748f82b43700ddbf4eeaeb85fbe7e52a8e99b380ad56e7e8",
+    "release_modules": [
+      "spatial_protocol",
+      "cohort"
+    ]
+  },
+  {
+    "study": "N1.3",
+    "original_file": "engine.py",
+    "original_sha256": "f551aee4ae336a28daa356af069bb78d3ad5a80528805422d316c9c323fa081f",
+    "release_modules": [
+      "homeostasis"
+    ]
+  },
+  {
+    "study": "N1.8",
+    "original_file": "network.py",
+    "original_sha256": "e6db3eadf2770dbe3926b8fbf7109fcd93b562338684d8f11e3720741a7b4bc9",
+    "release_modules": [
+      "circuit"
+    ]
+  },
+  {
+    "study": "N2 sparse",
+    "original_file": "core.py",
+    "original_sha256": "39de68c1c39202b441321a50b8963ede2942b0e6b3621957c5b96413260ae6b1",
+    "release_modules": [
+      "sparse"
+    ]
+  },
+  {
+    "study": "N2.1",
+    "original_file": "study.py",
+    "original_sha256": "c06d22816a584cd55161af358544cc869a3ec4f603f442bfdd0090a548cc4444",
+    "release_modules": [
+      "spatial_protocol"
+    ]
+  },
+  {
+    "study": "N2 XYZ",
+    "original_file": "geometry_trial.py",
+    "original_sha256": "c340c0614422c8ad886fbaaf84ff0292132cf4f8f11dc05b40b73b204d4b93db",
+    "release_modules": [
+      "xyz"
+    ]
+  },
+  {
+    "study": "N2 XYZ",
+    "original_file": "verify_saved.py",
+    "original_sha256": "c22431677e9f90a103b4c22ead3b22d90726a1f77f736e9f4498c67f5b6b5e67",
+    "release_modules": [
+      "score_xyz"
+    ]
+  },
+  {
+    "study": "N2 flash",
+    "original_file": "flash_trial.py",
+    "original_sha256": "7054c32f1c80adab127a7c48e9de40c6d03dc6dd3ebd8a420c6727577a3dcb48",
+    "release_modules": [
+      "flash"
+    ]
+  },
+  {
+    "study": "N2 flash",
+    "original_file": "verify_saved.py",
+    "original_sha256": "c1a565d9a989a1d0aebbd64db6f31ea0236b0923215debc46ce5c1eb6bfda6c7",
+    "release_modules": [
+      "score_flash"
+    ]
+  },
+  {
+    "study": "N1.9C",
+    "original_file": "study.py",
+    "original_sha256": "9a56008768b13a2217d79b25c36be791f8d17b82f12a6c81b8a0264b7b417e66",
+    "release_modules": [
+      "cohort"
+    ]
+  },
+  {
+    "study": "N1.9A",
+    "original_file": "probe.py",
+    "original_sha256": "ca7f3c8791f450029fabf09118f33309c0aa4b849b51db35015d636235881426",
+    "release_modules": [
+      "cohort",
+      "spatial_protocol"
+    ]
+  },
+  {
+    "study": "N1.9B",
+    "original_file": "study.py",
+    "original_sha256": "29966991fd9644c453d59d8d58d03034e954512faaaf655961e21cf8b44de5d5",
+    "release_modules": [
+      "cohort"
+    ]
+  },
+  {
+    "study": "N1.9 pair contact",
+    "original_file": "selective_contact.py",
+    "original_sha256": "3f7847da25ea7137d7855cf8aaa35578f0a86852b2d60309609d10692b1bff9b",
+    "release_modules": [
+      "context"
+    ]
+  },
+  {
+    "study": "N1.9 pair contact",
+    "original_file": "bridge_candidate.py",
+    "original_sha256": "e10c99876adba6747c767d13dd3f6f1db3aae8bf8df1e9aa5a08e63ef9077757",
+    "release_modules": [
+      "context"
+    ]
+  },
+  {
+    "study": "N1.9 rhythm",
+    "original_file": "context_link.py",
+    "original_sha256": "4286d37fb6b415021badf9232906c51f9a15bcace61d0cdbbb7111f16cbe4d97",
+    "release_modules": [
+      "context"
+    ]
+  },
+  {
+    "study": "N1.9 rhythm",
+    "original_file": "replay.py",
+    "original_sha256": "c9f0abe84f1d36c09e88b740e3f003883c5c0fb78a55a2b42ad9250ad264996e",
+    "release_modules": [
+      "replay"
+    ]
+  },
+  {
+    "study": "N1.9 rhythm",
+    "original_file": "readback.py",
+    "original_sha256": "854a84fb7e6a009da3ff8112b230ee2f10c5644326aa2b457a43b47e7899bc6f",
+    "release_modules": [
+      "score_rhythm"
+    ]
+  },
+  {
+    "study": "N1.9 contact filter",
+    "original_file": "replay.py",
+    "original_sha256": "a6f624877081206b8dbcf9888f78bc2ad39b5f9520b3bb74da7df2aafabb7da4",
+    "release_modules": [
+      "replay"
+    ]
+  },
+  {
+    "study": "N1.9 content",
+    "original_file": "association.py",
+    "original_sha256": "342004f7585f84b711c6aea7c728bf0103772715d3566ebc83840753c9eb03ec",
+    "release_modules": [
+      "association"
+    ]
+  },
+  {
+    "study": "N1.9 content",
+    "original_file": "readout_port.py",
+    "original_sha256": "7c9ee4848f42545cbf940858f99d2af9d5a9eebc4f0401653ecf8f333ced232b",
+    "release_modules": [
+      "readout_port"
+    ]
+  },
+  {
+    "study": "N1.9 cue content",
+    "original_file": "portable_readout.py",
+    "original_sha256": "f407230b68e9bee5f3506b55ff37648fa2083ae2ac50ad04942b28b1f15a0fee",
+    "release_modules": [
+      "portable_readout"
+    ]
+  },
+  {
+    "study": "N1.9 operator cue",
+    "original_file": "contact.py",
+    "original_sha256": "3efef5fb584b038cf84994ff8a946ec4fe01bc47794705ac67ff828fe8b3eb08",
+    "release_modules": [
+      "contact"
+    ]
+  },
+  {
+    "study": "N1.9 transfer",
+    "original_file": "register.py",
+    "original_sha256": "99760b3ace668cc01b15cc4d3f18b5547a6ebca225aabd0d7dc0d74675855ce3",
+    "release_modules": [
+      "register"
+    ]
+  },
+  {
+    "study": "N1.9 transfer",
+    "original_file": "adapter.py",
+    "original_sha256": "b3ed7ba7fce067265a4381fcc9c7419f91494ba6518b65cb2199e244c93294df",
+    "release_modules": [
+      "adapter"
+    ]
+  },
+  {
+    "study": "N1.9 transfer",
+    "original_file": "stimuli.py",
+    "original_sha256": "d3fa91ae9cb05d78e7bf6b240280211fc604d64d321e0d47029a7334e9c1520e",
+    "release_modules": [
+      "stimuli"
+    ]
+  },
+  {
+    "study": "N1.9 confirmation",
+    "original_file": "credit_port.py",
+    "original_sha256": "1b12081f14cab301280bae29aa277f1c8fce8babe033dcd0701f1b92213f8028",
+    "release_modules": [
+      "credit_port"
+    ]
+  },
+  {
+    "study": "N1.9 confirmation",
+    "original_file": "observed_stream.py",
+    "original_sha256": "f741296ac56ac358e6b36eb5b0b634d5b17e9d6a693753d39bbdabda1357c88d",
+    "release_modules": [
+      "observed_stream"
+    ]
+  },
+  {
+    "study": "N1.9 confirmation",
+    "original_file": "writer.py",
+    "original_sha256": "01f3dfca367d97f7fec37581121f0815c4368eba724942ec8465a213053f7fda",
+    "release_modules": [
+      "writer"
+    ]
+  },
+  {
+    "study": "N1.9 confirmation",
+    "original_file": "outcome_port.py",
+    "original_sha256": "8cf6714f16122962515b675fbba09049db0f0d0f930ac93a11a0e9cf50dc6250",
+    "release_modules": [
+      "outcome_port"
+    ]
+  },
+  {
+    "study": "N1.9 confirmation",
+    "original_file": "confirm.py",
+    "original_sha256": "30b532a76e069494fdc6993273b5c46074b0608f78e568572f774a32854968be",
+    "release_modules": [
+      "confirm"
+    ]
+  },
+  {
+    "study": "N1.9 confirmation",
+    "original_file": "merge.py",
+    "original_sha256": "b291c8a086e2be6cee65b9134c3c7135e763e63200a490d0c5da1da7d4c53908",
+    "release_modules": [
+      "merge"
+    ]
+  },
+  {
+    "study": "N1.9 confirmation",
+    "original_file": "layout.py",
+    "original_sha256": "4b9a1ed898b11f5bfb7629b581cff6249a138f6b3ab951b15816364d219c4d71",
+    "release_modules": [
+      "layout"
+    ]
+  },
+  {
+    "study": "N1.9 confirmation",
+    "original_file": "trial.py",
+    "original_sha256": "839797130b5eb3f2a2cfdf30ef340df031aaf38296189bc14710446a7e1b0593",
+    "release_modules": [
+      "confirm_protocol"
+    ]
+  },
+  {
+    "study": "N1.9 confirmation",
+    "original_file": "check_saved.py",
+    "original_sha256": "979e431f3bb8322d3d61d46c13e1e66550991eae7a5e3d6141c91b2344c85eb5",
+    "release_modules": [
+      "score_confirmation"
+    ]
+  }
+]

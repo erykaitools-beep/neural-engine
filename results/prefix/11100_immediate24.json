@@ -1,0 +1,23 @@
+{
+  "case": "11100_immediate24",
+  "controls": {
+    "intact": {
+      "post_reset_ticks": 0,
+      "verified": true
+    },
+    "repeat": {
+      "post_reset_ticks": 0,
+      "verified": true
+    },
+    "reset_Q": {
+      "post_reset_ticks": 97,
+      "verified": true
+    },
+    "reset_last": {
+      "post_reset_ticks": 117,
+      "verified": true
+    }
+  },
+  "payload_sha256": "ae15d5bad0cde51a1639c2d2df58c421e6ae9b0a43586d0edc19e456c7166331",
+  "raw_sha256": "7bfb322a7bca2a3f034545b8f1759aa704bf4f39a0b7316aaf38a4766eba27f7"
+}

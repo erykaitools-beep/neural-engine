@@ -1,0 +1,182 @@
+{
+  "scope": "Report 001 plus the separately identified frozen flash pilot. Scientific settings, not a launch request.",
+  "xyz": {
+    "seeds": [
+      22401,
+      22402,
+      22403,
+      22404
+    ],
+    "cells": 16,
+    "arms": [
+      "xyz",
+      "xy",
+      "blind"
+    ],
+    "directed_edges": 32,
+    "lesson_schedule": [
+      "32 A",
+      "32 B"
+    ],
+    "readout_steps": [
+      0,
+      16,
+      32,
+      48,
+      64
+    ],
+    "success": {
+      "paired_mean_gain_over_each_control_min": 0.05,
+      "positive_seed_count_min": 3,
+      "no_worse_forgetting": true
+    },
+    "source": "src/neural_engine/xyz.py"
+  },
+  "rhythm": {
+    "seeds": [
+      202611202,
+      202611203,
+      202611262,
+      202611263
+    ],
+    "panels": [
+      14,
+      14,
+      15,
+      15
+    ],
+    "steps": 288,
+    "batch": 48,
+    "weak_level_change_gt": 0.001953125,
+    "strong_channel_gt_fraction_of_peak": 0.03125,
+    "extra_transient_bytes": 8,
+    "learning": false,
+    "source": "src/neural_engine/replay.py"
+  },
+  "confirmation": {
+    "core_seed": 202611203,
+    "stimulus_seed": 202611213,
+    "markers": [
+      10,
+      160
+    ],
+    "lesson_rows": [
+      15,
+      19,
+      21,
+      24
+    ],
+    "readout_checkpoints": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "arms": [
+      "noise_single",
+      "noise_double",
+      "shift_single",
+      "shift_double"
+    ],
+    "extra_persistent_bytes": 2,
+    "core_learning": false,
+    "contact_learning": true,
+    "source": "src/neural_engine/confirm_protocol.py"
+  },
+  "cohort": {
+    "seeds": [
+      11100,
+      11101,
+      11102,
+      11103,
+      11104,
+      11105,
+      11106,
+      11107,
+      11108,
+      11109,
+      11110,
+      11111,
+      11112,
+      11113,
+      11114,
+      11115,
+      11116,
+      11117,
+      11118,
+      11119,
+      11120,
+      11121,
+      11122,
+      11123,
+      11124,
+      11125,
+      11126,
+      11127,
+      11128,
+      11129
+    ],
+    "arms": [
+      "baseline",
+      "local"
+    ],
+    "timing_controls": [
+      "immediate",
+      "delayed",
+      "time_shuffle",
+      "label_shuffle",
+      "frozen"
+    ],
+    "readout_checkpoints": [
+      0,
+      24,
+      48,
+      96
+    ],
+    "accuracy_floor": 0.75,
+    "gain_floor": 0.15,
+    "cohort_success_min_seeds": 24,
+    "source": "src/neural_engine/cohort.py"
+  },
+  "prefix": {
+    "seeds": [
+      11100,
+      11101,
+      11102
+    ],
+    "checkpoint_arms": [
+      "common0",
+      "immediate24",
+      "delayed24"
+    ],
+    "last_pre_Q_tick": 63,
+    "raster_window_half_open": [
+      64,
+      161
+    ],
+    "ca_difference_threshold_fraction": 0.01,
+    "learning": false
+  },
+  "flash": {
+    "seeds": [
+      22541,
+      22542,
+      22543,
+      22544,
+      22545,
+      22546,
+      22547,
+      22548
+    ],
+    "lag_ticks": 6,
+    "simulation_ticks": 80,
+    "arms": [
+      "xyz",
+      "blind",
+      "x"
+    ],
+    "learning": false,
+    "source": "src/neural_engine/flash.py"
+  }
+}

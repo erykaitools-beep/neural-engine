@@ -1,0 +1,23 @@
+{
+  "case": "11100_delayed24",
+  "controls": {
+    "intact": {
+      "post_reset_ticks": 0,
+      "verified": true
+    },
+    "repeat": {
+      "post_reset_ticks": 0,
+      "verified": true
+    },
+    "reset_Q": {
+      "post_reset_ticks": 97,
+      "verified": true
+    },
+    "reset_last": {
+      "post_reset_ticks": 117,
+      "verified": true
+    }
+  },
+  "payload_sha256": "3dc7746624603c159b5c90267c2946f8dd2ed3298e941a40ce2ce5a7dd9542ed",
+  "raw_sha256": "1d22a0fac07c7ef0120ec21a6352834e1e0ec6613522446468f1556a48f24045"
+}

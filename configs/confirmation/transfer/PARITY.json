@@ -1,0 +1,34 @@
+{
+  "202611203": {
+    "archive": "f9a2e6a5a335cd7aacff793d0ee24958427f8c02cfdf28f8aecd3e792a529ec6",
+    "banks": {
+      "0": "0a18a0e8",
+      "24": "0a00a0e8",
+      "25": "0affa0e8"
+    },
+    "cues": [
+      [
+        0,
+        1,
+        3
+      ],
+      [
+        1,
+        3,
+        7
+      ]
+    ],
+    "input": "68a4080ce3ba6009bc8074ffbd68a4b4dff97c233e79497001d48c00ec02bda8",
+    "pair_sha256": "c9d646f22f85261d1d529673d2b4639c6f72955eb33d0c97482a1f5abe87c005",
+    "sign": -1,
+    "spec": {
+      "donor": 0,
+      "extra": 4,
+      "support": [
+        0,
+        2,
+        5
+      ]
+    }
+  }
+}

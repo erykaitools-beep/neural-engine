@@ -1,0 +1,23 @@
+{
+  "case": "11100_common0",
+  "controls": {
+    "intact": {
+      "post_reset_ticks": 0,
+      "verified": true
+    },
+    "repeat": {
+      "post_reset_ticks": 0,
+      "verified": true
+    },
+    "reset_Q": {
+      "post_reset_ticks": 97,
+      "verified": true
+    },
+    "reset_last": {
+      "post_reset_ticks": 117,
+      "verified": true
+    }
+  },
+  "payload_sha256": "88fa9bdf48907c5500f001ccbd3886bfff9e2fd108ca57d85cee5558ebcb5faf",
+  "raw_sha256": "3f6b7b7c71dd92fc1db9252d53f507087fbf42deb25546b201cf22140f888326"
+}

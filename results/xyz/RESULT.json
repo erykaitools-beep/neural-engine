@@ -1,0 +1,229 @@
+{
+  "summary": {
+    "checkpoints_per_arm": 5,
+    "contrasts": {
+      "blind": {
+        "mean": 0.0,
+        "paired": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "positive": 0
+      },
+      "xy": {
+        "mean": 0.0234375,
+        "paired": [
+          0.0,
+          0.0,
+          0.09375,
+          0.0
+        ],
+        "positive": 1
+      }
+    },
+    "dimensions_setup_bytes": {
+      "blind": 0,
+      "xy": 256,
+      "xyz": 384
+    },
+    "energy_J": null,
+    "geometry_runtime_distance_calls": 0,
+    "inhibitory_arcs": 32,
+    "n_neurons": 16,
+    "per_seed": {
+      "22401": {
+        "blind": {
+          "A32": 16,
+          "Afinal": 16,
+          "Bfinal": 16,
+          "initial": {
+            "A": 0,
+            "B": 0
+          },
+          "length3D": 0.6531877792637288,
+          "silent": 0,
+          "ties": 0
+        },
+        "xy": {
+          "A32": 16,
+          "Afinal": 16,
+          "Bfinal": 16,
+          "initial": {
+            "A": 0,
+            "B": 0
+          },
+          "length3D": 0.45096698017326897,
+          "silent": 0,
+          "ties": 0
+        },
+        "xyz": {
+          "A32": 16,
+          "Afinal": 16,
+          "Bfinal": 16,
+          "initial": {
+            "A": 0,
+            "B": 0
+          },
+          "length3D": 0.41407472236018034,
+          "silent": 0,
+          "ties": 0
+        }
+      },
+      "22402": {
+        "blind": {
+          "A32": 14,
+          "Afinal": 16,
+          "Bfinal": 16,
+          "initial": {
+            "A": 0,
+            "B": 0
+          },
+          "length3D": 0.6341700170610911,
+          "silent": 0,
+          "ties": 0
+        },
+        "xy": {
+          "A32": 14,
+          "Afinal": 16,
+          "Bfinal": 16,
+          "initial": {
+            "A": 0,
+            "B": 0
+          },
+          "length3D": 0.5073591773127284,
+          "silent": 0,
+          "ties": 0
+        },
+        "xyz": {
+          "A32": 14,
+          "Afinal": 16,
+          "Bfinal": 16,
+          "initial": {
+            "A": 0,
+            "B": 0
+          },
+          "length3D": 0.44458238866660005,
+          "silent": 0,
+          "ties": 0
+        }
+      },
+      "22403": {
+        "blind": {
+          "A32": 16,
+          "Afinal": 16,
+          "Bfinal": 16,
+          "initial": {
+            "A": 0,
+            "B": 0
+          },
+          "length3D": 0.7553443033524502,
+          "silent": 0,
+          "ties": 0
+        },
+        "xy": {
+          "A32": 15,
+          "Afinal": 14,
+          "Bfinal": 15,
+          "initial": {
+            "A": 0,
+            "B": 0
+          },
+          "length3D": 0.46712723290405356,
+          "silent": 3,
+          "ties": 3
+        },
+        "xyz": {
+          "A32": 16,
+          "Afinal": 16,
+          "Bfinal": 16,
+          "initial": {
+            "A": 0,
+            "B": 0
+          },
+          "length3D": 0.41653549314669136,
+          "silent": 0,
+          "ties": 0
+        }
+      },
+      "22404": {
+        "blind": {
+          "A32": 16,
+          "Afinal": 16,
+          "Bfinal": 16,
+          "initial": {
+            "A": 0,
+            "B": 0
+          },
+          "length3D": 0.6362479449534777,
+          "silent": 0,
+          "ties": 0
+        },
+        "xy": {
+          "A32": 16,
+          "Afinal": 16,
+          "Bfinal": 16,
+          "initial": {
+            "A": 0,
+            "B": 0
+          },
+          "length3D": 0.3935989280625781,
+          "silent": 0,
+          "ties": 0
+        },
+        "xyz": {
+          "A32": 16,
+          "Afinal": 16,
+          "Bfinal": 16,
+          "initial": {
+            "A": 0,
+            "B": 0
+          },
+          "length3D": 0.3891062693432106,
+          "silent": 0,
+          "ties": 0
+        }
+      }
+    },
+    "preregistered_benefit_screen": false,
+    "summary": {
+      "blind": {
+        "A32": 62,
+        "Afinal": 64,
+        "Bfinal": 64,
+        "acquired_A32": 4,
+        "both_pass": 4,
+        "delta_A_count": -2,
+        "final_per_task_n": 64,
+        "lost_A": 0,
+        "mean_length3D": 0.669737511157687,
+        "training_cpu_s": 7.721932644999974
+      },
+      "xy": {
+        "A32": 61,
+        "Afinal": 62,
+        "Bfinal": 63,
+        "acquired_A32": 4,
+        "both_pass": 4,
+        "delta_A_count": -1,
+        "final_per_task_n": 64,
+        "lost_A": 0,
+        "mean_length3D": 0.4547630796131573,
+        "training_cpu_s": 7.6970522150000065
+      },
+      "xyz": {
+        "A32": 62,
+        "Afinal": 64,
+        "Bfinal": 64,
+        "acquired_A32": 4,
+        "both_pass": 4,
+        "delta_A_count": -2,
+        "final_per_task_n": 64,
+        "lost_A": 0,
+        "mean_length3D": 0.4160747183791706,
+        "training_cpu_s": 7.915747664000019
+      }
+    }
+  }
+}

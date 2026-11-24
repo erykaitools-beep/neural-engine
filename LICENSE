@@ -1,0 +1,22 @@
+License decision for local review candidate 0.1.0-rc.1
+
+Report: "Neural Engine – Independent Research Report No. 001", copyright
+2026 Eryk Wyrebek, is published independently under CC BY 4.0.
+https://doi.org/10.5281/zenodo.24492624
+https://creativecommons.org/licenses/by/4.0/
+
+Proposed, not yet granted: MIT for the original software (src/, experiments/
+and tests/). It permits reuse and modification with attribution and is simple
+for other laboratories to adopt. Review the standard text at
+https://opensource.org/license/mit .
+
+Proposed separately: CC BY 4.0 for the project-owned synthetic data,
+configurations, checkpoints, results and documentation. This preserves
+attribution when redistributing a benchmark separately from the software.
+
+These proposals require the rights holder's explicit approval. This file
+does not itself grant the proposed licenses. Before a public code/data
+release, replace this notice with the approved texts, copyright notice
+and a clear scope map. No third-party implementation, NumPy distribution
+or article is relicensed by this proposal. Public access to the report
+does not, by itself, license the software or research data.

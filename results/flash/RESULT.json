@@ -1,0 +1,187 @@
+{
+  "summary": {
+    "aggregate": {
+      "blind": {
+        "arrival": {
+          "correct": 190,
+          "left": 95,
+          "n": 192,
+          "pairs_both": 94,
+          "right": 95,
+          "silent": 0,
+          "spikes": 8017,
+          "ties": 1
+        },
+        "last_arrival": {
+          "correct": 6,
+          "left": 4,
+          "n": 192,
+          "pairs_both": 0,
+          "right": 2,
+          "silent": 34,
+          "spikes": 854,
+          "ties": 180
+        },
+        "last_motion": {
+          "correct": 10,
+          "left": 4,
+          "n": 192,
+          "pairs_both": 0,
+          "right": 6,
+          "silent": 39,
+          "spikes": 911,
+          "ties": 173
+        },
+        "motion": {
+          "correct": 190,
+          "left": 95,
+          "n": 192,
+          "pairs_both": 94,
+          "right": 95,
+          "silent": 0,
+          "spikes": 8376,
+          "ties": 1
+        }
+      },
+      "x": {
+        "arrival": {
+          "correct": 175,
+          "left": 89,
+          "n": 192,
+          "pairs_both": 81,
+          "right": 86,
+          "silent": 0,
+          "spikes": 6161,
+          "ties": 14
+        },
+        "last_arrival": {
+          "correct": 2,
+          "left": 1,
+          "n": 192,
+          "pairs_both": 0,
+          "right": 1,
+          "silent": 34,
+          "spikes": 678,
+          "ties": 188
+        },
+        "last_motion": {
+          "correct": 4,
+          "left": 1,
+          "n": 192,
+          "pairs_both": 0,
+          "right": 3,
+          "silent": 39,
+          "spikes": 728,
+          "ties": 179
+        },
+        "motion": {
+          "correct": 178,
+          "left": 89,
+          "n": 192,
+          "pairs_both": 83,
+          "right": 89,
+          "silent": 0,
+          "spikes": 6320,
+          "ties": 6
+        }
+      },
+      "xyz": {
+        "arrival": {
+          "correct": 187,
+          "left": 95,
+          "n": 192,
+          "pairs_both": 91,
+          "right": 92,
+          "silent": 0,
+          "spikes": 7232,
+          "ties": 5
+        },
+        "last_arrival": {
+          "correct": 9,
+          "left": 6,
+          "n": 192,
+          "pairs_both": 0,
+          "right": 3,
+          "silent": 34,
+          "spikes": 788,
+          "ties": 174
+        },
+        "last_motion": {
+          "correct": 14,
+          "left": 5,
+          "n": 192,
+          "pairs_both": 3,
+          "right": 9,
+          "silent": 39,
+          "spikes": 862,
+          "ties": 173
+        },
+        "motion": {
+          "correct": 179,
+          "left": 89,
+          "n": 192,
+          "pairs_both": 84,
+          "right": 90,
+          "silent": 0,
+          "spikes": 7585,
+          "ties": 6
+        }
+      }
+    },
+    "criteria": {
+      "accuracy": true,
+      "beats_endpoint": true,
+      "both_directions": true,
+      "delta": false,
+      "identical_null": true,
+      "wins": false
+    },
+    "delta_pp": -5.729166666666667,
+    "energy_J": null,
+    "paired": {
+      "22541": {
+        "delta_correct": -3,
+        "different_motion_decisions": 3,
+        "different_motion_traces": 24
+      },
+      "22542": {
+        "delta_correct": 0,
+        "different_motion_decisions": 0,
+        "different_motion_traces": 24
+      },
+      "22543": {
+        "delta_correct": -5,
+        "different_motion_decisions": 5,
+        "different_motion_traces": 24
+      },
+      "22544": {
+        "delta_correct": -2,
+        "different_motion_decisions": 4,
+        "different_motion_traces": 24
+      },
+      "22545": {
+        "delta_correct": 0,
+        "different_motion_decisions": 0,
+        "different_motion_traces": 24
+      },
+      "22546": {
+        "delta_correct": 0,
+        "different_motion_decisions": 0,
+        "different_motion_traces": 24
+      },
+      "22547": {
+        "delta_correct": -1,
+        "different_motion_decisions": 1,
+        "different_motion_traces": 24
+      },
+      "22548": {
+        "delta_correct": 0,
+        "different_motion_decisions": 0,
+        "different_motion_traces": 23
+      }
+    },
+    "screen_for_replication": false,
+    "training": false,
+    "wins": 0
+  }
+}

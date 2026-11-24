@@ -1,0 +1,26 @@
+{
+  "xyz": {
+    "worker_cpu_s": 26.087896375,
+    "worker_peak_RSS_KiB": 36524,
+    "wall_s": 127.19373593199998,
+    "energy_J": null
+  },
+  "rhythm": {
+    "worker_cpu_s": 45.668626191,
+    "worker_peak_RSS_KiB": 195212,
+    "wall_s": 216.9686031481251,
+    "energy_J": null
+  },
+  "confirmation": {
+    "worker_cpu_s": 8.487239142,
+    "worker_peak_RSS_KiB": 44608,
+    "wall_s": 40.29485779069364,
+    "energy_J": null
+  },
+  "flash": {
+    "worker_cpu_s": 2.123547002,
+    "worker_peak_RSS_KiB": 38984,
+    "wall_s": 10.095687003806233,
+    "energy_J": null
+  }
+}
